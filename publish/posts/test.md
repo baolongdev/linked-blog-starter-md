@@ -1,7 +1,5 @@
 ---
-title: Features on the verge of release 2022-10-01
-tags:
-  - blog
+title: Features on the verge of release
 date: 2023-09-17
 lastmod: 2023-09-17
 ---
