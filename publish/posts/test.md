@@ -1,8 +1,9 @@
 ---
-title: "Features on the verge of release 2022-10-01"
-tags: [ "blog" ]
-date: 2022-10-01
-lastmod: 2022-10-01
+title: Features on the verge of release 2022-10-01
+tags:
+  - blog
+date: 2023-09-17
+lastmod: 2023-09-17
 ---
 If you've read my [[posts/alternative-sync-local-only-for-fn|post about local sync]], I've talked a lot about the new local sync feature. But one big problem with this is the inability to interact with local files from within the browser. This makes it impossible to sync notes locally on the web version of Fleeting Notes.
 
