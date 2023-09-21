@@ -1,12 +1,12 @@
 ---
 title: Giới thiệu trang web E-Museum
 date: 2023-09-17
-lastmod: 2023-09-19
+lastmod: 2023-09-21
 banner: "![[quytrinh.jpeg]]"
 banner_y: 0.2
 author:
   name: Nguyễn Hoàng Minh Trực
-  picture: ../assets/author/blong.jpg
+  picture: "![[assets/author/blong.jpg]]"
 tags:
   - blog
 ---
