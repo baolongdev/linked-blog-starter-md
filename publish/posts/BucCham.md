@@ -3,7 +3,6 @@ banner: "![[quytrinh.jpeg]]"
 date: 2023-09-21
 lastmod: 2023-09-21
 ---
----
 title: Bức chạm
 date: 2023-09-17
 lastmod: 2023-09-19
