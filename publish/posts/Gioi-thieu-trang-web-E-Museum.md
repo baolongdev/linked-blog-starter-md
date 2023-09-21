@@ -5,7 +5,7 @@ lastmod: 2023-09-19
 banner: "![[quytrinh.jpeg]]"
 banner_y: 0.2
 author:
-  name: Lê Bảo Long
+  name: Nguyễn Hoàng Minh Trực
   picture: ../assets/author/blong.jpg
 tags:
   - blog
