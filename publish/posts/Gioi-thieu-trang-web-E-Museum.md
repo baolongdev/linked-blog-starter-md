@@ -1,10 +1,6 @@
 ---
-banner: "![[quytrinh.jpeg]]"
-date: 2023-09-21
-lastmod: 2023-09-22
----
----
-title: Giới thiệu trang web E-Museum
+[date: 2023-09-21
+lastmod: 2023-09-22](<title: Giới thiệu trang web E-Museum
 date: 2023-09-17
 lastmod: 2023-09-22
 banner: "![[quytrinh.jpeg]]"
@@ -13,7 +9,7 @@ author:
   name: Nguyễn Hoàng Minh Trực
   picture: ../assets/demo.png
 tags:
-  - blog
+  - blog>)
 ---
 ## Giới thiệu
 
