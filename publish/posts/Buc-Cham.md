@@ -18,8 +18,4 @@ author:
 - **Nguồn gốc:** Tìm thấy tại Trà Kiệu, Quảng Nam, Việt Nam.
 - **Chất liệu:** Được tạo bằng đá cát.
 - **Thời kỳ:** Thế kỷ thứ 10 sau Công nguyên.
-<<<<<<< HEAD
 - **Mô tả:** Bức tường trang trí với các họa tiết khắc trên đá cát. Tuy nhiên, không có thông tin cụ thể về nội dung của các họa tiết này.
-=======
-- **Mô tả:** Bức chạm được trang trí với các họa tiết khắc trên đá cát. Tuy nhiên, không có thông tin cụ thể của các họa tiết này.
->>>>>>> origin/main
