@@ -1,6 +1,6 @@
 ---
 title: Mi cửa
-banner: "![[assets/mi-cua/ogImage.jpg]]"
+banner: "![[../assets/mi-cua/ogImage.jpg]]"
 ogImage:
   url: ../assets/mi-cua/ogImage.jpg
 date: 2023-09-21

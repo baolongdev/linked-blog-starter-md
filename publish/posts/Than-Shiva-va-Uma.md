@@ -1,6 +1,6 @@
 ---
 title: Thần Shiva và Uma
-banner: "![[assets/than-shiva-va-uma/ogImage.jpg]]"
+banner: "![[../assets/than-shiva-va-uma/ogImage.jpg]]"
 ogImage:
   url: ../assets/than-shiva-va-uma/ogImage.jpg
 date: 2023-09-21

@@ -1,6 +1,6 @@
 ---
 title: Bức chạm
-banner: "![[assets/buc-cham/ogImage.jpg]]"
+banner: "![[../assets/buc-cham/ogImage.jpg]]"
 ogImage:
   url: ../assets/buc-cham/ogImage.jpg
 date: 2023-09-22
