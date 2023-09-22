@@ -1,8 +1,10 @@
 ---
-date: 2023-09-21
+date: 2023-09-22
 lastmod: 2023-09-22
-banner: 
+ogImage:
+  url: ../assets/buc-cham/ogImage.jpg
 ---
+
 <iframe src="https://projectscanner.streamlit.app/buc-cham/?embed=true" style="height:420px;width:100%;"></iframe>
 
 ## Nội dung
@@ -12,3 +14,7 @@ banner:
 - **Chất liệu:** Được tạo bằng đá cát.
 - **Thời kỳ:** Thế kỷ thứ 10 sau Công nguyên.
 - **Mô tả:** Bức tường trang trí với các họa tiết khắc trên đá cát. Tuy nhiên, không có thông tin cụ thể về nội dung của các họa tiết này.
+=======
+
+<iframe src="https://projectscanner.streamlit.app/buc-cham/?embed=true" style="height:420px;width:100%;"></iframe>
+>>>>>>> origin/main
