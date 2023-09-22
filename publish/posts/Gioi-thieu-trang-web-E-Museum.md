@@ -1,11 +1,12 @@
 ---
-date: 2023-09-17
-lastmod: 2023-09-22
+title: Giới thiệu trang web E-Museum
 banner: "![[quytrinh.jpeg]]"
 banner_y: 0.2
 author:
   name: Nguyễn Hoàng Minh Trực
   picture: ../assets/demo.png
+lastmod: 2023-09-22
+date: 2023-09-22
 ---
 ## Giới thiệu
 
@@ -14,8 +15,8 @@ Trong thời đại số hóa ngày nay, việc bảo tồn và truyền tải d
 Vì thế mà ý tưởng về “Ứng dụng Structure from Motion (SfM) trong việc phát triển hệ thống bảo tàng trực tuyến”. Ứng dụng này có thể biến những bức ảnh chụp được từ bảo tàng được chuyển thành vật thể 3D bằng cách kết hợp dữ liệu hình ảnh và thuật toán Sfm. Thành quả này giúp cho việc bảo tồn và chia sẻ di vật lịch sử, di sản văn hóa ở bất kỳ nơi nào đều được đưa đến với mọi người. Đồng thời, ứng dụng này có tính tiện lợi cao, mang đến trải nghiệm tốt hơn cho người tham quan thông qua hệ thống trực tuyến với giá thành siêu tiết kiệm.
 
 | ![Quy trình hoạt động](quytrinh.jpeg) |
-| ------------------------------------- |
-| Quy trình hoạt động                   |
+|:-------------------------------------:|
+|          Quy trình hoạt động          |
 
 Hệ thống được thiết kế đơn giản, dễ sử dụng và vận hành với chi phí thấp nhàm tiết kiệm kinh phí cho các bảo tàng.
 

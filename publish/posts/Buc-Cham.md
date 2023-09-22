@@ -1,8 +1,13 @@
 ---
-date: 2023-09-22
-lastmod: 2023-09-22
+title: Bức chạm
+banner: "![[assets/buc-cham/ogImage.jpg]]"
 ogImage:
   url: ../assets/buc-cham/ogImage.jpg
+date: 2023-09-22
+lastmod: 2023-09-22
+author:
+  name: Nguyễn Hoàng Minh Trực
+  picture: ../author/blong.jpg
 ---
 
 <iframe src="https://projectscanner.streamlit.app/buc-cham/?embed=true" style="height:420px;width:100%;"></iframe>
@@ -14,7 +19,3 @@ ogImage:
 - **Chất liệu:** Được tạo bằng đá cát.
 - **Thời kỳ:** Thế kỷ thứ 10 sau Công nguyên.
 - **Mô tả:** Bức tường trang trí với các họa tiết khắc trên đá cát. Tuy nhiên, không có thông tin cụ thể về nội dung của các họa tiết này.
-=======
-
-<iframe src="https://projectscanner.streamlit.app/buc-cham/?embed=true" style="height:420px;width:100%;"></iframe>
->>>>>>> origin/main
