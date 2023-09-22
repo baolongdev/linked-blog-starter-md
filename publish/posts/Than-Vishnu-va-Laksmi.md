@@ -1,5 +1,5 @@
 ---
-title: Mi cửa
+title: Thần Vishnu và Laksmi
 banner: "![[assets/than-vishnu-va-laksmi/ogImage.jpg]]"
 ogImage:
   url: ../assets/than-vishnu-va-laksmi/ogImage.jpg

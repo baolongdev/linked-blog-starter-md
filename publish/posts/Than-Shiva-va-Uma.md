@@ -1,8 +1,8 @@
 ---
-title: Mi cửa
+title: Thần Shiva và Uma
 banner: "![[assets/than-shiva-va-uma/ogImage.jpg]]"
 ogImage:
-  url: ../assets/than-shiva-va-um/ogImage.jpg
+  url: ../assets/than-shiva-va-uma/ogImage.jpg
 date: 2023-09-21
 lastmod: 2023-09-22
 author:
