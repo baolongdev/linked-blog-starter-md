@@ -8,7 +8,7 @@ lastmod: 2023-09-23
 author:
   name: Nguyễn Hoàng Minh Trực
   picture: ../assets/author/blong.jpg
-banner_y: 
+banner_y: 0.1
 ---
 <iframe src="https://projectscanner.streamlit.app/buc-cham/?embed=true" style="height:420px;width:100%;"></iframe>
 
