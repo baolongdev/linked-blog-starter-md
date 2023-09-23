@@ -1,12 +1,12 @@
 ---
-title: Giới thiệu trang web E-Museum
 banner: "![[quytrinh.jpeg]]"
+date: 2023-09-22
+lastmod: 2023-09-23
+title: Giới thiệu trang web E-Museum
 banner_y: 0.2
 author:
   name: Nguyễn Hoàng Minh Trực
   picture: ../assets/demo.png
-lastmod: 2023-09-22
-date: 2023-09-22
 ---
 ## Giới thiệu
 
