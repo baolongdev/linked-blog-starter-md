@@ -1,5 +1,5 @@
 ---
-banner: "![[oglmage.png]]"
+banner: "![[../assets/than-shiva-va-uma/oglmage.png]]"
 date: 2023-09-21
 lastmod: 2023-09-24
 title: Thần Shiva và Uma - Shiva and Uma
@@ -8,7 +8,6 @@ ogImage:
 author:
   name: Nguyễn Hoàng Minh Trực
   picture: ../assets/author/blong.jpg
-banner_y: 
 ---
 <iframe src="https://projectscanner.streamlit.app/Than-Shiva-va-Uma/?embed=true" style="height:420px;width:100%;"></iframe>
 

@@ -1,5 +1,5 @@
 ---
-banner: "![[ogImage.png]]"
+banner: "![[../assets/than-vishnu-va-laksmi/ogImage.png]]"
 date: 2023-09-21
 lastmod: 2023-09-24
 title: Thần Vishnu và Laksmi - Vishnu and Laksmi
@@ -8,7 +8,6 @@ ogImage:
 author:
   name: Nguyễn Hoàng Minh Trực
   picture: ../assets/author/blong.jpg
-banner_y: 
 ---
 <iframe src="https://projectscanner.streamlit.app/Than-Vishnu-va-Laksmi/?embed=true" style="height:420px;width:100%;"></iframe>
 
