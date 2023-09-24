@@ -1,7 +1,7 @@
 ---
 banner: "![[../assets/image/quytrinh.jpeg]]"
 date: 2023-09-22
-lastmod: 2023-09-24
+lastmod: 2023-09-25
 title: Giới thiệu trang web E-Museum
 banner_y: 0.2
 author:
@@ -28,4 +28,4 @@ Hệ thống được thiết kế đơn giản, dễ sử dụng và vận hàn
 
 Ứng dụng trên được thực nghiệm tại Bảo tàng Lịch sử Việt Nam. Sau đây là một số vật mẫu được nhóm nghiên cứu xử lý và phục hồi thành hình ảnh 3D.
 
-<iframe src="https://youtu.be/AaNL3WR4dfY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="height:420px;width:100%;"></iframe> 
+<iframe src="https://www.youtube.com/embed/AaNL3WR4dfY?si=8utCEhhr5cY6dp0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="height:420px;width:100%;"></iframe> 
