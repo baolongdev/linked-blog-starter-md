@@ -1,10 +1,10 @@
 ---
-banner: "![[../assets/than-shiva-va-uma/ogImage.jpg]]"
+banner: "![[oglmage.png]]"
 date: 2023-09-21
-lastmod: 2023-09-23
+lastmod: 2023-09-24
 title: Thần Shiva và Uma - Shiva and Uma
 ogImage:
-  url: ../assets/than-shiva-va-uma/ogImage.jpg
+  url: ../assets/than-shiva-va-uma/ogImage.png
 author:
   name: Nguyễn Hoàng Minh Trực
   picture: ../assets/author/blong.jpg

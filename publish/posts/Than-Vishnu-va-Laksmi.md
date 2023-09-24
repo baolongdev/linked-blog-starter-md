@@ -1,7 +1,7 @@
 ---
-banner: "![[../assets/than-vishnu-va-laksmi/ogImage.jpg]]"
+banner: "![[ogImage.png]]"
 date: 2023-09-21
-lastmod: 2023-09-23
+lastmod: 2023-09-24
 title: Thần Vishnu và Laksmi - Vishnu and Laksmi
 ogImage:
   url: ../assets/than-vishnu-va-laksmi/ogImage.jpg
