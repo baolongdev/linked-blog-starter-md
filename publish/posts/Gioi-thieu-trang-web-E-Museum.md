@@ -28,4 +28,4 @@ Hệ thống được thiết kế đơn giản, dễ sử dụng và vận hàn
 
 Ứng dụng trên được thực nghiệm tại Bảo tàng Lịch sử Việt Nam. Sau đây là một số vật mẫu được nhóm nghiên cứu xử lý và phục hồi thành hình ảnh 3D.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k45XU3cbp4o?si=6j8PFR9VqDvmJRV7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://youtu.be/AaNL3WR4dfY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="height:420px;width:100%;"></iframe> 
