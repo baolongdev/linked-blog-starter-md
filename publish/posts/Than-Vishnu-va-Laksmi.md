@@ -8,6 +8,7 @@ ogImage:
 author:
   name: Nguyễn Hoàng Minh Trực
   picture: ../assets/author/blong.jpg
+banner_y: 0.392
 ---
 <iframe src="https://projectscanner.streamlit.app/Than-Vishnu-va-Laksmi/?embed=true" style="height:420px;width:100%;"></iframe>
 
