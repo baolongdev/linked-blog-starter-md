@@ -6,7 +6,7 @@ title: Giới thiệu trang web E-Museum
 banner_y: 0.2
 author:
   name: Nguyễn Hoàng Minh Trực
-  picture: ../assets/demo.png
+  picture: ../assets/author/blong.jpg
 ---
 ## Giới thiệu
 
