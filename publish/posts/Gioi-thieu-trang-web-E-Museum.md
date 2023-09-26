@@ -1,7 +1,7 @@
 ---
 banner: "![[../assets/image/quytrinh.jpeg]]"
 date: 2023-09-22
-lastmod: 2023-09-24
+lastmod: 2023-09-25
 title: Giới thiệu trang web E-Museum
 banner_y: 0.2
 author:
@@ -15,17 +15,17 @@ Trong thời đại số hóa ngày nay, việc bảo tồn và truyền tải d
 Vì thế mà ý tưởng về “Ứng dụng Structure from Motion (SfM) trong việc phát triển hệ thống bảo tàng trực tuyến”. Ứng dụng này có thể biến những bức ảnh chụp được từ bảo tàng được chuyển thành vật thể 3D bằng cách kết hợp dữ liệu hình ảnh và thuật toán Sfm. Thành quả này giúp cho việc bảo tồn và chia sẻ di vật lịch sử, di sản văn hóa ở bất kỳ nơi nào đều được đưa đến với mọi người. Đồng thời, ứng dụng này có tính tiện lợi cao, mang đến trải nghiệm tốt hơn cho người tham quan thông qua hệ thống trực tuyến với giá thành siêu tiết kiệm.
 
 | ![Quy trình hoạt động](../assets/image/quytrinh.jpeg) |
-|:-------------------------------------:|
-|          Quy trình hoạt động          |
+| ----------------------------------------------------- |
+| Quy trình hoạt động                                   |
 
 Hệ thống được thiết kế đơn giản, dễ sử dụng và vận hành với chi phí thấp nhàm tiết kiệm kinh phí cho các bảo tàng.
 
 | ![Giao diện ứng dụng](../assets/image/user_interface.jpeg) |
-| ------------------------------------------ |
-| Giao diện ứng dụng                         |
+| ---------------------------------------------------------- |
+| Giao diện ứng dụng                                         |
 
 ## Một số sản phẩm
 
 Ứng dụng trên được thực nghiệm tại Bảo tàng Lịch sử Việt Nam. Sau đây là một số vật mẫu được nhóm nghiên cứu xử lý và phục hồi thành hình ảnh 3D.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k45XU3cbp4o?si=6j8PFR9VqDvmJRV7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/AaNL3WR4dfY?si=8utCEhhr5cY6dp0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="height:420px;width:100%;"></iframe> 
