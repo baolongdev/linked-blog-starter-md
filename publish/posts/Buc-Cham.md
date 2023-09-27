@@ -1,10 +1,11 @@
 ---
 banner: "![[../assets/buc-cham/ogImage.jpg]]"
 date: 2023-09-22
-lastmod: 2023-09-24
+lastmod: 2023-09-27
 title: Bức chạm - Motif de frise
 ogImage:
   url: ../assets/buc-cham/ogImage.jpg
+audio: ../assets/audio.mp3
 author:
   name: Nguyễn Hoàng Minh Trực
   picture: ../assets/author/blong.jpg

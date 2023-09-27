@@ -1,11 +1,7 @@
 ---
 banner: "![[../assets/mi-cua/ogImage.jpg]]"
 date: 2023-09-21
-<<<<<<< HEAD
 lastmod: 2023-09-27
-=======
-lastmod: 2023-09-26
->>>>>>> origin/main
 title: Mi cửa
 ogImage:
   url: ../assets/mi-cua/ogImage.jpg
