@@ -1,5 +1,10 @@
 ---
 banner: "![[../assets/than-shiva-va-uma/oglmage.png]]"
+date: 2023-09-24
+lastmod: 2023-09-27
+---
+---
+banner: "![[../assets/than-shiva-va-uma/oglmage.png]]"
 date: 2023-09-21
 lastmod: 2023-09-24
 title: Thần Shiva và Uma - Shiva and Uma
