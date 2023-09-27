@@ -1,7 +1,11 @@
 ---
 banner: "![[../assets/mi-cua/ogImage.jpg]]"
 date: 2023-09-21
+<<<<<<< HEAD
 lastmod: 2023-09-27
+=======
+lastmod: 2023-09-26
+>>>>>>> origin/main
 title: Mi cửa
 ogImage:
   url: ../assets/mi-cua/ogImage.jpg
@@ -12,7 +16,8 @@ author:
 <iframe src="https://projectscanner.streamlit.app/mi-cua/?embed=true" style="height:420px;width:100%;"></iframe>
 
 ## Thông tin
-chưa có thông tin 
+chưa có thông tin 1
+
 
 ## Nội dung
 chưa có
