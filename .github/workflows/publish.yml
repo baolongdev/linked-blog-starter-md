@@ -1,6 +1,6 @@
 name: Publish Markdown Files
 env:
-  BLOG_REPO: baolongdev/linked-blog-starter
+  BLOG_REPO: baolongdev/doantruongctdn-website
   PUBLISH_DIR: publish
 on:
   workflow_dispatch:
@@ -19,14 +19,15 @@ jobs:
         with:
           path: temp_blog
           repository: ${{ env.BLOG_REPO }}
-      - name: Install obsidian-export
+      - name: Install Rust / cargo
+        uses: actions-rs/toolchain@v1
+        with:
+          toolchain: stable
+      - name: Install and run obsidian-export
         run: |
-          wget https://github.com/zoni/obsidian-export/releases/download/v22.11.0/obsidian-export_Linux-x86_64.bin
-          chmod +x obsidian-export_Linux-x86_64.bin
-      - name: Run obsidian-export
-        run: |
+          cargo install obsidian-export
           rm -rf temp_blog/common_md && mkdir temp_blog/common_md
-          ./obsidian-export_Linux-x86_64.bin ./temp_md/${{ env.PUBLISH_DIR }} temp_blog/common_md
+          ~/.cargo/bin/obsidian-export ./temp_md/${{ env.PUBLISH_DIR }} temp_blog/common_md
       - name: Move blog dir to currDir
         run: |
           cp -r temp_blog/. .
